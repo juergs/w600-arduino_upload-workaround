@@ -12,7 +12,7 @@ https://github.com/vshymanskyy/w600tool
 
 Ready & OK: 
 <pre>
-`Opening device: COM15
+Opening device: COM15
 
 Push reset button to enter bootloader...
 
@@ -25,7 +25,6 @@ Please wait for upgrade ...
 Upgrade image success! => C:\Users\js\AppData\Local\Temp\arduino_build_950630/LED-AP_W600.ino.gz.img
 
 Please wait for about 10 seconds before uncompress & restart...
-`
 </pre>
 
 Original Uploader (faulty?):
@@ -33,7 +32,7 @@ Original Uploader (faulty?):
 -------------------------------
 
 <pre>
-`Serial open success! com: COM15, baudrate: 115200.
+Serial open success! com: COM15, baudrate: 115200.
 
 Waiting for restarting device ...
 
@@ -116,5 +115,5 @@ Try to re-open Serial with baud speed: 57600...
 
 !!! PLEASE BURN FIRMWARE MANUALLY !!!
 
-An error occurred while uploading the sketch`
+An error occurred while uploading the sketch
 </pre>
