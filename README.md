@@ -28,9 +28,9 @@ Please wait for about 10 seconds before uncompress & restart...
 `
 </pre>
 
-Original Uploader:
+Original Uploader (faulty?):
 
-------------------
+-------------------------------
 
 <pre>
 `Serial open success! com: COM15, baudrate: 115200.
